@@ -53,4 +53,3 @@ void ShowArray(int[] NewArray)
 
 int[] myArray = CreateArray(8);
 ShowArray(myArray);
-
